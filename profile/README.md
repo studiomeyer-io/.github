@@ -70,6 +70,7 @@ MCP servers for email (IMAP/SMTP), calendar (CalDAV), and privacy-focused search
 
 Built by [Matthias Meyer](https://github.com/madetocreate) in Germany.
 
-*Running a web agency with 13 AI agents doing 80% of the work.*
+*Running a web agency with 20+ AI agents and 680+ MCP tools · 58 MCP server, doing 80% of the work.*
+
 
 </div>
