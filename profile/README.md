@@ -12,6 +12,16 @@ We build MCP servers, agent frameworks, and security tooling for AI applications
 
 </div>
 
+## A note from us
+
+We have been building tools and systems for ourselves for the past two years. The fact that this org is small and our repos have few stars is not because we are new. It is because we only just decided to share what we have built. It is not a fresh experiment, it is a long story with a recent commit.
+
+We love building things and sharing them. We do not love social media tactics, growth hacks, or chasing stars and followers. So this org is small. The code is real, it gets used, issues get answered. Judge for yourself.
+
+If something here helps you, sharing, testing, and feedback help us. If it could be better, an issue is more useful. If you build something with it, tell us at hello@studiomeyer.io. That genuinely makes our day.
+
+From a small studio in Palma de Mallorca.
+
 ## MCP Server Products
 
 ### 🧠 [StudioMeyer Memory](https://github.com/studiomeyer-io/studiomeyer-memory) — Persistent AI Memory
