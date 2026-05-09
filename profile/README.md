@@ -12,6 +12,23 @@ We build MCP servers, agent frameworks, and security tooling for AI applications
 
 </div>
 
+
+<!-- org-stats-badges -->
+<div align="center">
+
+[![npm downloads / month](https://img.shields.io/npm/dm/mcp-tenant-pair?style=flat-square&color=cb3837&logo=npm&label=mcp-tenant-pair%20%2Fmo)](https://www.npmjs.com/package/mcp-tenant-pair)
+[![npm downloads / month](https://img.shields.io/npm/dm/mcp-academy?style=flat-square&color=cb3837&logo=npm&label=mcp-academy%20%2Fmo)](https://www.npmjs.com/package/mcp-academy)
+[![npm downloads / month](https://img.shields.io/npm/dm/n8n-nodes-studiomeyer-memory?style=flat-square&color=cb3837&logo=npm&label=n8n-memory%20%2Fmo)](https://www.npmjs.com/package/n8n-nodes-studiomeyer-memory)
+[![PyPI downloads / month](https://img.shields.io/pypi/dm/studiomeyer-aishield?style=flat-square&color=3776AB&logo=pypi&logoColor=white&label=ai-shield-py%20%2Fmo)](https://pypi.org/project/studiomeyer-aishield/)
+[![crates.io](https://img.shields.io/crates/d/mcp-armor?style=flat-square&color=000000&logo=rust&label=mcp-armor%20installs)](https://crates.io/crates/mcp-armor)
+
+**3,500+ npm installs / month · 2,700+ git clones / 14 days · 24 public repos · 11 forks**
+
+Numbers update at every site deploy. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
+
+</div>
+<!-- /org-stats-badges -->
+
 ## A note from us
 
 We have been building tools and systems for ourselves for the past two years. The fact that this org is small and our repos have few stars is not because we are new. It is because we only just decided to share what we have built. It is not a fresh experiment, it is a long story with a recent commit.
