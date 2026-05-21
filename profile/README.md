@@ -22,7 +22,7 @@ We build MCP servers, agent frameworks, and security tooling for AI applications
 [![PyPI downloads / month](https://img.shields.io/pypi/dm/studiomeyer-aishield?style=flat-square&color=3776AB&logo=pypi&logoColor=white&label=ai-shield-py%20%2Fmo)](https://pypi.org/project/studiomeyer-aishield/)
 [![crates.io](https://img.shields.io/crates/d/mcp-armor?style=flat-square&color=000000&logo=rust&label=mcp-armor%20installs)](https://crates.io/crates/mcp-armor)
 
-**3,600+ npm installs / month · 2,100+ git clones / 14 days · 26 public repos · 11 forks**
+**3,200+ cross-platform installs / month (npm + PyPI + crates.io) · 2,000+ git clones / 14 days · 28 public repos · 12 forks**
 
 Numbers update at every site deploy. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
 
@@ -43,13 +43,13 @@ From a small studio in Palma de Mallorca.
 
 ### 🧠 [StudioMeyer Memory](https://github.com/studiomeyer-io/studiomeyer-memory) — Persistent AI Memory
 
-53 MCP tools. Knowledge Graph, semantic search, session tracking, multi-agent support, contradiction detection. Import from ChatGPT, Claude, Gemini, Copilot, Perplexity.
+56 MCP tools (incl. interactive 3D knowledge graph visualization). Knowledge Graph, semantic search, session tracking, multi-agent support, contradiction detection. Import from ChatGPT, Claude, Gemini, Copilot, Perplexity.
 
 ```
 https://memory.studiomeyer.io/mcp
 ```
 
-`53 tools` · `LongMemEval 90%` · `Free tier` · `OAuth 2.1 + Magic Link`
+`56 tools` · `Bi-temporal KG` · `EU Frankfurt` · `OAuth 2.1 + Magic Link` · `Free tier`
 
 ---
 
