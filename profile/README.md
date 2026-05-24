@@ -22,7 +22,7 @@ We build MCP servers, agent frameworks, and security tooling for AI applications
 [![PyPI downloads / month](https://img.shields.io/pypi/dm/studiomeyer-aishield?style=flat-square&color=3776AB&logo=pypi&logoColor=white&label=ai-shield-py%20%2Fmo)](https://pypi.org/project/studiomeyer-aishield/)
 [![crates.io](https://img.shields.io/crates/d/mcp-armor?style=flat-square&color=000000&logo=rust&label=mcp-armor%20installs)](https://crates.io/crates/mcp-armor)
 
-**4,000+ npm installs / month · 2,000+ git clones / 14 days · 28 public repos · 11 forks**
+**4,000+ npm installs / month · 2,000+ git clones / 14 days · 29 public repos · 11 forks**
 
 Numbers update at every site deploy. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
 
@@ -142,6 +142,42 @@ npx tsx agents/research-agent.ts "your topic"
 Cinema-grade video production from any AI assistant. Recording, editing, effects, captions, TTS, and smart screenshots. Built on FFmpeg + Playwright.
 
 `8 tools` · `60fps recording` · `22 LUT presets` · `social format export`
+
+---
+
+### 🌀 [Temporal Memory Workflows](https://github.com/studiomeyer-io/temporal-memory-workflows) — Durable AI Workflow Templates
+
+Five Temporal workflow templates with StudioMeyer Memory integration. Memory-aware agent, operator approval, saga rollback, recurring synthesis, multi-agent coordination. Built so AI agents and long-running pipelines have one shared brain across crashes, restarts, and weeks of execution.
+
+```bash
+git clone https://github.com/studiomeyer-io/temporal-memory-workflows
+```
+
+`5 templates` · `45 tests` · `TypeScript SDK` · `Postgres-only cluster`
+
+---
+
+### 🦀 [MCP Armor](https://github.com/studiomeyer-io/mcp-armor) — Rust Security Sidecar
+
+Drop-in Rust sidecar for MCP servers. Scans tool calls for prompt injection, validates Ed25519 manifest signatures, blocks marketplace-poisoning vectors. Defense against the OX Security MCP advisory (10+ CVEs).
+
+```bash
+cargo install mcp-armor
+```
+
+`133 tests` · `<5ms p99 overhead` · `Sigstore Rekor bridge` · `OTLP gRPC export`
+
+---
+
+### 💾 [Local Memory MCP](https://github.com/studiomeyer-io/local-memory-mcp) — Persistent Memory, No Cloud
+
+Persistent local memory for Claude, Cursor, and Codex. 13 MCP tools, SQLite + FTS5 + Knowledge Graph. No cloud, no API keys, no signup.
+
+```bash
+npx @studiomeyer/local-memory-mcp
+```
+
+`13 tools` · `SQLite + FTS5` · `Knowledge Graph` · `MIT`
 
 ---
 
