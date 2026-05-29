@@ -67,13 +67,13 @@ https://crm.studiomeyer.io/mcp
 
 ### 🔍 [StudioMeyer GEO](https://github.com/studiomeyer-io/studiomeyer-geo) — AI Visibility Monitoring
 
-24 MCP tools. Check how 8 LLM platforms (ChatGPT, Gemini, Perplexity, Claude, Grok, DeepSeek, Meta AI, Copilot) see your brand. 20 tools work without API keys.
+25 MCP tools. Check how 8 LLM platforms (ChatGPT, Gemini, Perplexity, Claude, Grok, DeepSeek, Meta AI, Copilot) see your brand. 20 tools work without API keys.
 
 ```
 https://geo.studiomeyer.io/mcp
 ```
 
-`24 tools` · `8 LLM platforms` · `Free tier` · `KDD 2024 paper-based`
+`25 tools` · `8 LLM platforms` · `Free tier` · `KDD 2024 paper-based`
 
 ---
 
@@ -165,7 +165,7 @@ Drop-in Rust sidecar for MCP servers. Scans tool calls for prompt injection, val
 cargo install mcp-armor
 ```
 
-`133 tests` · `<5ms p99 overhead` · `Sigstore Rekor bridge` · `OTLP gRPC export`
+`343 tests` · `<5ms p99 overhead` · `Sigstore Rekor bridge` · `OTLP gRPC export`
 
 ---
 
