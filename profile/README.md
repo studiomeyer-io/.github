@@ -6,7 +6,7 @@
 
 We build MCP servers, agent frameworks, and security tooling for AI applications.
 
-[Website](https://studiomeyer.io) · [Twitter](https://x.com/studiomeyer_ai)
+[Website](https://studiomeyer.io) · [Twitter](https://x.com/matthias_meyer_)
 
 ---
 
@@ -38,6 +38,16 @@ We love building things and sharing them. We do not love social media tactics, g
 If something here helps you, sharing, testing, and feedback help us. If it could be better, an issue is more useful. If you build something with it, tell us at hello@studiomeyer.io. That genuinely makes our day.
 
 From a small studio in Palma de Mallorca.
+
+## Ecosystem
+
+This org is the open-source half of StudioMeyer, a small AI and design studio in Palma de Mallorca. Five connected sites, same founder, same stack:
+
+- **[studiomeyer.io](https://studiomeyer.io)** — the studio. Websites, AI systems and automation for smaller companies. Personal guidance, long-term support.
+- **[studiomeyer.academy](https://studiomeyer.academy)** — a free "Memory-First AI Operator" school. Six levels from beginner to building your own MCP server, DE/EN/ES, Discord. Ships as the `mcp-academy` npm package.
+- **[aifinca.es](https://aifinca.es)** — hands-on AI-operator workshops on a finca on Mallorca. Four formats, solo to full team. You leave with a running system, not a PDF of notes.
+- **[matthiasmeyer.tech](https://matthiasmeyer.tech)** — the hub for everything in this org: each repo with architecture notes, trade-offs, and when to use it.
+- **[meetmyagent.io](https://meetmyagent.io)** — our research lab. Polis: nine AI citizens (Claude Opus, Sonnet, Haiku) live sixty years in a simulated Mallorca town, open and live.
 
 ## MCP Server Products
 
