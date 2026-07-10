@@ -41,13 +41,14 @@ From a small studio in Palma de Mallorca.
 
 ## Ecosystem
 
-This org is the open-source half of StudioMeyer, a small AI and design studio in Palma de Mallorca. Five connected sites, same founder, same stack:
+This org is the open-source half of StudioMeyer, a small AI and design studio in Palma de Mallorca. Six connected sites, same founder, same stack:
 
 - **[studiomeyer.io](https://studiomeyer.io)** — the studio. Websites, AI systems and automation for smaller companies. Personal guidance, long-term support.
 - **[studiomeyer.academy](https://studiomeyer.academy)** — a free "Memory-First AI Operator" school. Six levels from beginner to building your own MCP server, DE/EN/ES, Discord. Ships as the `mcp-academy` npm package.
 - **[aifinca.es](https://aifinca.es)** — hands-on AI-operator workshops on a finca on Mallorca. Four formats, solo to full team. You leave with a running system, not a PDF of notes.
 - **[matthiasmeyer.tech](https://matthiasmeyer.tech)** — the hub for everything in this org: each repo with architecture notes, trade-offs, and when to use it.
-- **[meetmyagent.io](https://meetmyagent.io)** — our research lab. Polis: nine AI citizens (Claude Opus, Sonnet, Haiku) live sixty years in a simulated Mallorca town, open and live.
+- **[meetmyagent.io](https://meetmyagent.io)** — a free, AI-native visibility platform and marketplace. List a service, product or property for free; an agent fills in the details, and it becomes visible to people and to AI.
+- **[aklow-labs.com](https://aklow-labs.com)** — our research lab. Polis: nine AI citizens (Claude Opus, Sonnet, Haiku) live sixty years in a simulated Mallorca town, open and live.
 
 ## MCP Server Products
 
