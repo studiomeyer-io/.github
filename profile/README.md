@@ -16,15 +16,15 @@ We build MCP servers, agent frameworks, and security tooling for AI applications
 <!-- org-stats-badges -->
 <div align="center">
 
-[![npm downloads / month](https://img.shields.io/npm/dm/mcp-tenant-pair?style=flat-square&color=cb3837&logo=npm&label=mcp-tenant-pair%20%2Fmo)](https://www.npmjs.com/package/mcp-tenant-pair)
+[![npm downloads / month](https://img.shields.io/npm/dm/darwin-agents?style=flat-square&color=cb3837&logo=npm&label=darwin-agents%20%2Fmo)](https://www.npmjs.com/package/darwin-agents)
 [![npm downloads / month](https://img.shields.io/npm/dm/mcp-academy?style=flat-square&color=cb3837&logo=npm&label=mcp-academy%20%2Fmo)](https://www.npmjs.com/package/mcp-academy)
-[![npm downloads / month](https://img.shields.io/npm/dm/n8n-nodes-studiomeyer-memory?style=flat-square&color=cb3837&logo=npm&label=n8n-memory%20%2Fmo)](https://www.npmjs.com/package/n8n-nodes-studiomeyer-memory)
+[![npm downloads / month](https://img.shields.io/npm/dm/mcp-personal-suite?style=flat-square&color=cb3837&logo=npm&label=personal-suite%20%2Fmo)](https://www.npmjs.com/package/mcp-personal-suite)
 [![PyPI downloads / month](https://img.shields.io/pypi/dm/studiomeyer-aishield?style=flat-square&color=3776AB&logo=pypi&logoColor=white&label=ai-shield-py%20%2Fmo)](https://pypi.org/project/studiomeyer-aishield/)
 [![crates.io](https://img.shields.io/crates/d/mcp-armor?style=flat-square&color=000000&logo=rust&label=mcp-armor%20installs)](https://crates.io/crates/mcp-armor)
 
-**9,000+ npm installs / month · 2,000+ git clones / 14 days · 40 public repos · 17 forks**
+**6,000+ npm installs / month across 34 packages · 1,800+ git clones / 14 days · 42 public repos · 19 forks**
 
-Numbers update at every site deploy. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
+Measured, not maintained: refreshed weekly by [`org-stats-refresh`](https://github.com/studiomeyer-io/.github). Last run 2026-08-03. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
 
 </div>
 <!-- /org-stats-badges -->
