@@ -24,7 +24,7 @@ We build MCP servers, agent frameworks, and security tooling for AI applications
 
 **5,500+ npm installs / month across 33 packages · 3,000+ git clones / 14 days · 43 public repos · 19 forks**
 
-Measured, not maintained: refreshed weekly by [`org-stats-refresh`](https://github.com/studiomeyer-io/.github). Last run 2026-08-16. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
+Measured, not maintained: refreshed weekly by [`org-stats-refresh`](https://github.com/studiomeyer-io/.github). Last run 2026-08-23. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
 
 </div>
 <!-- /org-stats-badges -->
