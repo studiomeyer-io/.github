@@ -22,9 +22,9 @@ We build MCP servers, agent frameworks, and security tooling for AI applications
 [![PyPI downloads / month](https://img.shields.io/pypi/dm/studiomeyer-aishield?style=flat-square&color=3776AB&logo=pypi&logoColor=white&label=ai-shield-py%20%2Fmo)](https://pypi.org/project/studiomeyer-aishield/)
 [![crates.io](https://img.shields.io/crates/d/mcp-armor?style=flat-square&color=000000&logo=rust&label=mcp-armor%20installs)](https://crates.io/crates/mcp-armor)
 
-**6,000+ npm installs / month across 33 packages · 2,600+ git clones / 14 days · 43 public repos · 17 forks**
+**6,000+ npm installs / month across 33 packages · 3,700+ git clones / 14 days · 43 public repos · 17 forks**
 
-Measured, not maintained: refreshed weekly by [`org-stats-refresh`](https://github.com/studiomeyer-io/.github). Last run 2026-08-30. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
+Measured, not maintained: refreshed weekly by [`org-stats-refresh`](https://github.com/studiomeyer-io/.github). Last run 2026-09-06. Live mirror: [matthiasmeyer.tech](https://matthiasmeyer.tech).
 
 </div>
 <!-- /org-stats-badges -->
